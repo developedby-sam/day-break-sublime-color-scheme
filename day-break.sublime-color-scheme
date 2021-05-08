@@ -1,21 +1,17 @@
 {
-    "author": "Samir Ansari",
-    "name": "Darkish Color Scheme",
+    "author": "developedbysam",
+    "name": "Day-break Color Scheme",
     "variables": {
         "background-color": "#020B14F0",
         "gray": "#adadad",
         "charcoal": "#364958",
         "deep-space-sparkle": "#3B6064",
-        "steel-teal": "#55828B",
         "eton-blue": "#87bba2",
-        "tea-green": "#c9e4cA",
         "gun-metal": "#1b2733",
         "jade-green": "#00a86b",
         "purple": "#b284be",
-        "red-dark": "#b75459",
         "red-light": "#bf696e",
         "blue-green": "#0699C6",
-        "dark-orange": "#e05e00"
     },
     "globals": {
         // general-settings
@@ -266,7 +262,7 @@
             "name": "CSS Attributes",
             "scope": "source.css entity.other.attribute-name, source.sass entity.other.attribute-name,  source.scss entity.other.attribute-name, source.less entity.other.attribute-name, source.stylus entity.other.attribute-name",
             // "font_style": "italic",
-            "foreground": "#CC9246"
+            "foreground": "#cc9246"
         },
         {
             "name": "Search Results Nums",
